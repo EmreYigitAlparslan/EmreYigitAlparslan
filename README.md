@@ -12,19 +12,19 @@ These days I focus on building practical products fast: things people actually u
 
 ## 🚀 Selected Projects
 
+### 📊 [Verified Revenues](https://verifiedrevenues.app)
+A product focused on revenue transparency and structured business data.
+
+- Built with strict separation between private source data and public-facing data
+- Designed as a real product, not just a demo
+- Public product, private codebase
+
 ### 🌡️ [Claude Meter](https://github.com/EmreYigitAlparslan/claude-meter)
 A lightweight macOS menu bar app for tracking Claude Code subscription usage.
 
 - Shows session and weekly usage at a glance
 - Built for developers working inside agentic coding workflows
 - Open source
-
-### 📊 [Verified Revenues](https://verifiedrevenues.com)
-A product focused on revenue transparency and structured business data.
-
-- Built with strict separation between private source data and public-facing data
-- Designed as a real product, not just a demo
-- Public product, private codebase
 
 ### 💌 [Invitation Maker](https://invitationmaker.store/)
 A simple product for creating invitations online.
