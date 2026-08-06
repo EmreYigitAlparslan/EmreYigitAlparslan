@@ -26,7 +26,7 @@ A lightweight macOS menu bar app for tracking Claude Code subscription usage.
 - Built for developers working inside agentic coding workflows
 - Open source
 
-### 💌 [Invitation Maker](https://invitationmaker.store/)
+### 💌 [Invitation Maker](https://www.invitationmaker.store/)
 A simple product for creating invitations online.
 
 - Consumer-facing product
